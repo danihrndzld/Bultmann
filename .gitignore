@@ -1,0 +1,10 @@
+*.pdf
+*.bkp
+.DS_Store
+.omc/
+__pycache__/
+ocr_vision
+# model weights/config are symlinks into ~/.cache/huggingface; only the patched tokenizer files are versioned
+unlimited_ocr/model/*
+!unlimited_ocr/model/tokenizer.json
+!unlimited_ocr/model/tokenizer_config.json

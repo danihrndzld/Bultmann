@@ -1,0 +1,22 @@
+body { font-family: Georgia, "Iowan Old Style", serif; line-height: 1.5; margin: 0 5%; }
+p { margin: 0; text-indent: 1.4em; text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+
+h1 { font-size: 1.5em; font-weight: normal; letter-spacing: 0.04em; text-align: center; margin: 3em 0 0.4em; page-break-before: always; }
+h1 + p { text-indent: 0; text-align: center; font-style: italic; margin-bottom: 2em; }   /* sermon date */
+h1 + p em { font-style: italic; }
+h2 { font-size: 1.1em; font-weight: normal; text-align: center; margin: 2em 0 1em; }     /* section numerals I, II, III */
+h2 + p, .line-block + p, blockquote + p { text-indent: 0; }
+
+.smallcaps { font-variant: small-caps; letter-spacing: 0.03em; }
+
+.line-block { margin: 1em 0 1em 2.5em; font-style: italic; line-height: 1.4; }
+blockquote { margin: 1.2em 0 0.6em; padding-top: 0.4em; border-top: 1px solid #999; font-size: 0.8em; color: #333; }
+blockquote p { text-indent: 0; }
+
+.copyright { margin-top: 30%; font-size: 0.8em; }
+.copyright p { text-indent: 0; margin-bottom: 0.8em; text-align: left; }
+.dedication { margin-top: 30%; text-align: center; font-style: italic; page-break-before: always; }
+.dedication p { text-indent: 0; text-align: center; }
+
+nav#toc ol { list-style: none; padding-left: 0; }
+nav#toc li { margin: 0.4em 0; }

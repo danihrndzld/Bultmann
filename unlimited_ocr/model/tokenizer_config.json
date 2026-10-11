@@ -1,0 +1,19 @@
+{
+  "add_prefix_space": null,
+  "backend": "tokenizers",
+  "bos_token": "<｜begin▁of▁sentence｜>",
+  "clean_up_tokenization_spaces": false,
+  "eos_token": "<｜end▁of▁sentence｜>",
+  "extra_special_tokens": [
+    "<|User|>",
+    "<|Assistant|>"
+  ],
+  "is_local": true,
+  "local_files_only": false,
+  "model_max_length": 1000000000000000019884624838656,
+  "pad_token": "<｜▁pad▁｜>",
+  "processor_class": "DeepseekOCRProcessor",
+  "tokenizer_class": "PreTrainedTokenizerFast",
+  "unk_token": null,
+  "use_default_system_prompt": false
+}

@@ -1,0 +1,31 @@
+---
+title:
+  - type: main
+    text: This World and the Beyond
+  - type: subtitle
+    text: Marburg Sermons
+creator:
+  - role: author
+    text: Rudolf Bultmann
+    file-as: Bultmann, Rudolf
+contributor:
+  - role: translator
+    text: Harold Knight
+    file-as: Knight, Harold
+publisher: Charles Scribner's Sons
+date: "1960"
+lang: en-US
+rights: Copyright © 1960 by Rudolf Bultmann
+identifier:
+  - scheme: LCCN
+    text: "60014019"
+subject:
+  - Sermons
+  - Theology
+  - Christianity
+  - Lutheran Church
+description: >-
+  Twenty-one sermons Rudolf Bultmann preached at Marburg between 1936 and 1950,
+  translated by Harold Knight from Marburger Predigten (J. C. B. Mohr, Tübingen, 1956).
+cover-image: cover.jpg
+---
